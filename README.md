@@ -1,6 +1,6 @@
 # Резервное копирование PostgreSQL
 
-Скрипт `postgres-backup.sh` выполняет резервное копирование PostgreSQL в production-ориентированном режиме.
+Скрипт `postgres-backup.sh` выполняет резервное копирование PostgreSQL
 
 Алгоритм работы:
 
